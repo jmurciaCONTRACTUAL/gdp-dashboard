@@ -1,2 +1,10 @@
 streamlit
 pandas
+plotly
+matplotlib
+IPython.display
+io
+base64
+sqlite3
+os
+seaborn
